@@ -28,8 +28,5 @@ public class SumCalculator {
         System.out.println(total.calculateSum());    
     }
 
-    /*Create an instance of your calculator class
-
-    Print me a line which says ‘ The sum of both numbers is: ANSWER */
     
 }
